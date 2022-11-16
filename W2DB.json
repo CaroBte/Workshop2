@@ -1,0 +1,158 @@
+{
+    "peliculas": [
+        {
+            "id": 1,
+            "nombre": "Shrek",
+            "imagen": "https://i.pinimg.com/564x/a5/ae/48/a5ae48861b19751372fdb0af6344e1b9.jpg",
+            "puntaje": "7,9",
+            "genero": "Animación"
+        },
+        {
+            "id": 2,
+            "nombre": "Shrek 2",
+            "imagen": "https://i.pinimg.com/564x/7f/5d/84/7f5d844a9ece6e1e503f3eadf2f18031.jpg",
+            "puntaje": "7,3",
+            "genero": "Animación"
+        },
+        {
+            "id": 3,
+            "nombre": "Shrek Tercer",
+            "imagen": "https://i.pinimg.com/564x/96/f1/4b/96f14b31a537b1074e0a1fa21ccecba7.jpg",
+            "puntaje": "6,1",
+            "genero": "Animación"
+        },
+        {
+            "id": 4,
+            "nombre": "Shrek, Felices para Siempre",
+            "imagen": "https://m.media-amazon.com/images/I/718yIvZosHL._AC_SL1335_.jpg",
+            "puntaje": "6,3",
+            "genero": "Animación"
+        },
+        {
+            "id": 5,
+            "nombre": "Cars",
+            "imagen": "https://m.media-amazon.com/images/I/811IcpNS05L._AC_SL1303_.jpg",
+            "puntaje": "7,2",
+            "genero": "Animación"
+        },
+        {
+            "id": 6,
+            "nombre": "Cars 2",
+            "imagen": "https://i.pinimg.com/564x/e2/ed/27/e2ed27aff80b916e5dfb3d360779415b.jpg",
+            "puntaje": "6,2",
+            "genero": "Animación"
+        },
+        {
+            "id": 7,
+            "nombre": "Cars 3",
+            "imagen": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2016/11/Cars3-p2.jpg",
+            "puntaje": "6,7",
+            "genero": "Animación"
+        },
+        {
+            "id": 8,
+            "nombre": "Soul",
+            "imagen": "https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/10/soul_7.jpg?w=743&ssl=1",
+            "puntaje": "8,0",
+            "genero": "Animación"
+        },
+        {
+            "id": 9,
+            "nombre": "Intensamente",
+            "imagen": "https://i.pinimg.com/564x/ac/77/ea/ac77eae0c2c2f6246b5034af318fc0b4.jpg",
+            "puntaje": "8,2",
+            "genero": "Animación"
+        },
+        {
+            "id": 10,
+            "nombre": "Como entrenar a tu Dragon",
+            "imagen": "https://fontmeme.com/images/How-to-train-your-dragon-imax-poster.jpg",
+            "puntaje": "8,1",
+            "genero": "Animación"
+        },
+        {
+            "id": 11,
+            "nombre": "Como entrenar a tu Dragon 2",
+            "imagen": "https://image.tmdb.org/t/p/original/lVKSLbEYpx8y4YeJh5GJGAk0a0p.jpg",
+            "puntaje": "7,8",
+            "genero": "Animación"
+        },
+        {
+            "id": 12,
+            "nombre": "Como entrenar a tu Dragon 3",
+            "imagen": "https://i.pinimg.com/564x/8a/88/58/8a88584e82bfd8d3cec3df372f08de7c.jpg",
+            "puntaje": "7,4",
+            "genero": "Animación"
+        },
+        {
+            "id": 13,
+            "nombre": "Buscando a Nemo",
+            "imagen": "https://es.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/91/25/21/20136595.jpg",
+            "puntaje": "8,2",
+            "genero": "Animación"
+        },
+        {
+            "id": 14,
+            "nombre": "Buscando a Dory",
+            "imagen": "https://www.lahiguera.net/cinemania/pelicula/7251/buscando_a_dory-cartel-6781.jpg",
+            "puntaje": "7,3",
+            "genero": "Animación"
+        },
+        {
+            "id": 15,
+            "nombre": "Harry Potter y la Piedra Filosofal",
+            "imagen": "https://m.media-amazon.com/images/I/51yJPUxDuTL._AC_.jpg",
+            "puntaje": "8,1",
+            "genero": "Fantasía"
+        },
+        {
+            "id": 16,
+            "nombre": "Harry Potter y la cámara secreta",
+            "imagen": "https://i.pinimg.com/564x/a3/20/6b/a3206bdc4daadbd4ae19069f20379c7a.jpg",
+            "puntaje": "7,4",
+            "genero": "Fantasía"
+        },
+        {
+            "id": 17,
+            "nombre": "Harry Potter y el prisionero de Azkaban",
+            "imagen": "https://es.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/35/23/41/18378766.jpg",
+            "puntaje": "7,9",
+            "genero": "Fantasía"
+        },
+        {
+            "id": 18,
+            "nombre": "Harry Potter y el cáliz de fuego",
+            "imagen": "https://m.media-amazon.com/images/I/51pFF7a2j+L._AC_.jpg",
+            "puntaje": "7,7",
+            "genero": "Fantasía"
+        },
+        {
+            "id": 19,
+            "nombre": "Harry Potter y la Orden del Fénix",
+            "imagen": "https://pics.filmaffinity.com/Harry_Potter_y_la_orden_del_F_nix-305440655-large.jpg",
+            "puntaje": "7,5",
+            "genero": "Fantasía"
+        },
+        {
+            "id": 20,
+            "nombre": "Harry Potter y el misterio del príncipe",
+            "imagen": "https://es.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/67/05/06/19138964.jpg",
+            "puntaje": "7,6",
+            "genero": "Fantasía"
+        },
+        {
+            "id": 21,
+            "nombre": "Harry Potter y las Reliquias de la Muerte: Parte 1",
+            "imagen": "https://bibliotecaresumen.com/wp-content/uploads/HARRYPOTTER-683x1024.jpg",
+            "puntaje": "7,7",
+            "genero": "Fantasía"
+        },
+        {
+            "id": 22,
+            "nombre": "Harry Potter y las Reliquias de la Muerte: Parte 2",
+            "imagen": "https://play-lh.googleusercontent.com/Jh98YKJCJJ8kmXnYkafa9pHSkLjOUQ5nPLUAztDjhWVS6Dragd7Yw63EwPI18-cfnec=w240-h480-rw",
+            "puntaje": "8,1",
+            "genero": "Fantasía"
+        }
+    ]
+}
